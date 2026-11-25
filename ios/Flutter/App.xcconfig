@@ -1,0 +1,8 @@
+// Bundle ID and signing for the Runner app.
+//
+// The placeholder below keeps the project building from a fresh clone. Put
+// your own bundle ID and team in Local.xcconfig (copy
+// Local.xcconfig.example): it's git-ignored, so they never reach the repo.
+PRODUCT_BUNDLE_IDENTIFIER = com.example.teamsubscription
+
+#include? "Local.xcconfig"

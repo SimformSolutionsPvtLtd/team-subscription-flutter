@@ -1,0 +1,4 @@
+// Copy to Local.xcconfig (git-ignored) and fill in your own values.
+// The bundle ID must match your app in App Store Connect.
+PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.yourapp
+DEVELOPMENT_TEAM = ABCDE12345

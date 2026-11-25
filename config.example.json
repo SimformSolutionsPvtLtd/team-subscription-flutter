@@ -1,0 +1,6 @@
+{
+  "TEAM_PLAN_IDS": "com.yourcompany.team.monthly,com.yourcompany.team.yearly",
+  "COINS_PRODUCT_ID": "com.yourcompany.coins",
+  "PRO_UNLOCK_PRODUCT_ID": "com.yourcompany.pro.unlock",
+  "COINS_PER_PURCHASE": 100
+}

@@ -33,7 +33,7 @@ The `in_app_purchase` plugin can't buy seats yet, so team plans go through a sma
 ### 1. App Store Connect
 
 1. Create two auto-renewable subscriptions **in the same subscription group**, for example Team Monthly and Team Yearly. Seats belong to the group, so switching between them keeps the seats.
-2. Open each subscription, click **Edit** next to **Purchase Options**, choose **Yes, allow multiseat purchases**, pick where it can be sold, and save. New subscriptions allow it by default.
+2. Open each subscription, click **Edit** next to **Purchase Options**, choose **Yes, allow multiseat purchases**, pick where it can be sold, and click **Confirm**. New subscriptions allow it by default.
 3. Optional: set volume-discount tiers through the [App Store Connect API](https://developer.apple.com/documentation/appstoreconnectapi/managing-auto-renewable-subscriptions). The web UI can't set them yet.
 4. For the one-time tab, create a consumable and a non-consumable.
 

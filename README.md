@@ -169,3 +169,7 @@ flutter test
 - [Supporting multiseat purchases in your app](https://developer.apple.com/documentation/storekit/supporting-multiseat-purchases-in-your-app)
 - [Managing the life cycle of multiseat subscriptions](https://developer.apple.com/documentation/storekit/managing-the-life-cycle-of-multiseat-subscriptions)
 - [Testing multiseat subscriptions](https://developer.apple.com/documentation/storekit/testing-multiseat-subscriptions)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
